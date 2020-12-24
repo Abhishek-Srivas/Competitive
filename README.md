@@ -1,7 +1,13 @@
 # Competitive
-Programs of Competitive Coding:-
-This Repo is a collection of few programs that i have solved in HackerRank,CodeChef and CodeForces 
-Feel free to use the code and to fork and give a pull request if you find any error.
+# Programs of Competitive Coding:-
+# Language Used:- C++
+# Contents:-
+# 1.HackerRank Questions.
+# 2.Linked List Implementations.
+# 3.Number Theroy Concept Questions. 
 
-NOTE:-For now I have mostly added ProblemSolving of HackerRank.
+
+# Feel free to use the Code.Fork the repo to add more questions to it and correct the code if you find any error Or Optimization.
+
+
 

@@ -34,7 +34,7 @@ int main(){
     }
     else
     {
-        cout<<num<<" is not Prime\n";
+        cout<<num<<" is not Primecd\n";
     }
     
     return 0;
